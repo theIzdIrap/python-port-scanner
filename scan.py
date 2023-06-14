@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import socket
 
 host = input("Enter host: ")
